@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-<h3>My name is Vinicius Cestari and i'm a Full Stack Developer.</h3>
-<hr>
-
-- 😄 19 years old;
-- ⌛  4 Years, 1 Month and 13 Days since I started programming;
-- 📚 IT technician and studying information systems;
-- 🌱 Currently learning Rust;
-- 🔭 I’m currently working as a dev at BrBits Sistemas;
+<h3>I'm Marco, a Full-Stack Developer.</h3>
 - <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>   From Brazil.
+<hr>
 
 My WebSite: https://viniciuscestarii-portfolio.vercel.app/
 
