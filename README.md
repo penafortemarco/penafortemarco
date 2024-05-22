@@ -10,31 +10,23 @@ My Portfolio WebSite is: https://marcopenaforte.vercel.app/
 
 <div style="display: inline_block" align="center">
   <br>
-  <img align="center" alt="Vinicius HTML" height="40" width="40" src="https://cdn.simpleicons.org/html5/"/>
-  <img align="center" alt="Vinicius CSS" height="40" width="40" src="https://cdn.simpleicons.org/css3/"/>
-  <img align="center" alt="Vinicius Javascript" height="40" width="40" src="https://cdn.simpleicons.org/javascript/"/>
-  <img align="center" alt="Vinicius Typescript" height="40" width="40" src="https://cdn.simpleicons.org/typescript/"/>
-  <img align="center" alt="Vinicius Tailwind" height="40" width="40" src="https://cdn.simpleicons.org/svelte/"/>
-  <img align="center" alt="Vinicius Tailwind" height="40" width="40" src="https://cdn.simpleicons.org/sveltekit/"/>
-  <img align="center" alt="Vinicius Tailwind" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/"/>
-  <img align="center" alt="Vinicius Visual Studio Code" height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/"/>
+  <img align="center" alt="Marco HTML" height="40" width="40" src="https://cdn.simpleicons.org/html5/"/>
+  <img align="center" alt="Marco CSS" height="40" width="40" src="https://cdn.simpleicons.org/css3/"/>
+  <img align="center" alt="Marco Javascript" height="40" width="40" src="https://cdn.simpleicons.org/javascript/"/>
+  <img align="center" alt="Marco Typescript" height="40" width="40" src="https://cdn.simpleicons.org/typescript/"/>
+  <img align="center" alt="Marco Svelte" height="40" width="40" src="https://cdn.simpleicons.org/svelte/"/>
+  <img align="center" alt="Marco Tailwind" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/"/>
+  <img align="center" alt="Marco Nodejs" height="40" width="40" src="https://cdn.simpleicons.org/node.js/"/>
+  <img align="center" alt="Marco PostgreSQL" height="40" width="40" src="https://cdn.simpleicons.org/postgresql/"/>
+  <img align="center" alt="Marco Supabase" height="40" width="40" src="https://cdn.simpleicons.org/supabase/"/>
+  <img align="center" alt="Marco Vercel" height="40" width="40" src="https://cdn.simpleicons.org/vercel/_/eee"/>
+  <img align="center" alt="Marco Git" height="40" width="40" src="https://cdn.simpleicons.org/git/"/>
+  <img align="center" alt="Marco Github" height="40" width="40" src="https://cdn.simpleicons.org/github/_/eee"/>
+  <img align="center" alt="Marco Gitlab" height="40" width="40" src="https://cdn.simpleicons.org/gitlab/"/>
+  <img align="center" alt="Marco Docker" height="40" width="40" src="https://cdn.simpleicons.org/docker/"/>
 
   <br><br>
-
-  <img align="center" alt="Vinicius Nodejs" height="40" width="40" src="https://cdn.simpleicons.org/node.js/"/>
-  <img align="center" alt="Vinicius Bun" height="40" width="40" src="https://cdn.simpleicons.org/bun/_/ffeed2"/>
-  <img align="center" alt="Vinicius Express" height="40" width="40" src="https://cdn.simpleicons.org/express/_/eee"/>
-  <img align="center" alt="Vinicius Vitest" height="40" width="40" src="https://cdn.simpleicons.org/vitest/"/>
-  <img align="center" alt="Vinicius Prisma" height="40" width="40" src="https://cdn.simpleicons.org/prisma/_/5a67d8"/>
-  <img align="center" alt="Vinicius MySql" height="40" width="40" src="https://cdn.simpleicons.org/mysql/"/>
-  <img align="center" alt="Vinicius PostgreSQL" height="40" width="40" src="https://cdn.simpleicons.org/postgresql/"/>
-  <img align="center" alt="Vinicius Docker" height="40" width="40" src="https://cdn.simpleicons.org/docker/"/>
-  <img align="center" alt="Vinicius Firebase" height="40" width="40" src="https://cdn.simpleicons.org/firebase/"/>
-  <img align="center" alt="Vinicius AWS" height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/_/ff9900"/>
-  <img align="center" alt="Vinicius Vercel" height="40" width="40" src="https://cdn.simpleicons.org/vercel/_/eee"/>
-  <img align="center" alt="Vinicius Git" height="40" width="40" src="https://cdn.simpleicons.org/git/"/>
-  <img align="center" alt="Vinicius Github" height="40" width="40" src="https://cdn.simpleicons.org/github/_/eee"/>
-  <img align="center" alt="Vinicius Github" height="40" width="40" src="https://cdn.simpleicons.org/gitlab/"/>
+  <img align="center" alt="Marcos Visual Studio Code" height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/"/>
   <br>
 </div>
 
