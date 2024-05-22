@@ -4,26 +4,19 @@
 From Brazil: <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>
 <hr>
 
-My WebSite: https://viniciuscestarii-portfolio.vercel.app/
+My Portfolio WebSite is: https://marcopenaforte.vercel.app/
 
-## **💻 What I know:** 
+## **💻 My Skills** 
 
 <div style="display: inline_block" align="center">
   <br>
-  <img align="center" alt="Vinicius Typescript" height="40" width="40" src="https://cdn.simpleicons.org/typescript/"/>
-  <img align="center" alt="Vinicius Javascript" height="40" width="40" src="https://cdn.simpleicons.org/javascript/"/>
-  <img align="center" alt="Vinicius C#" height="40" width="40" src="https://cdn.simpleicons.org/csharp/"/>
-  <img align="center" alt="Vinicius .NET" height="40" width="40" src="https://cdn.simpleicons.org/dotnet/"/>
-  <img align="center" alt="Vinicius Typescript" height="40" width="40" src="https://cdn.simpleicons.org/go/"/>
-  <img align="center" alt="Vinicius Nextjs" height="40" width="40" src="https://cdn.simpleicons.org/next.js/_/eee"/>
-  <img align="center" alt="Vinicius React" height="40" width="40" src="https://cdn.simpleicons.org/react/"/>
-  <img align="center" alt="Vinicius React Query" height="40" width="40" src="https://cdn.simpleicons.org/reactquery/"/>
-  <img align="center" alt="Vinicius Redux" height="40" width="40" src="https://cdn.simpleicons.org/redux/"/>
-  <img align="center" alt="Vinicius MUI" height="40" width="40" src="https://cdn.simpleicons.org/mui/"/>
-  <img align="center" alt="Vinicius Tailwind" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/"/>
-  <img align="center" alt="Vinicius ThreeJs" height="40" width="40" src="https://cdn.simpleicons.org/three.js/_/eee"/>
-  <img align="center" alt="Vinicius CSS" height="40" width="40" src="https://cdn.simpleicons.org/css3/"/>
   <img align="center" alt="Vinicius HTML" height="40" width="40" src="https://cdn.simpleicons.org/html5/"/>
+  <img align="center" alt="Vinicius CSS" height="40" width="40" src="https://cdn.simpleicons.org/css3/"/>
+  <img align="center" alt="Vinicius Javascript" height="40" width="40" src="https://cdn.simpleicons.org/javascript/"/>
+  <img align="center" alt="Vinicius Typescript" height="40" width="40" src="https://cdn.simpleicons.org/typescript/"/>
+  <img align="center" alt="Vinicius Tailwind" height="40" width="40" src="https://cdn.simpleicons.org/svelte/"/>
+  <img align="center" alt="Vinicius Tailwind" height="40" width="40" src="https://cdn.simpleicons.org/sveltekit/"/>
+  <img align="center" alt="Vinicius Tailwind" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/"/>
   <img align="center" alt="Vinicius Visual Studio Code" height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/"/>
 
   <br><br>
