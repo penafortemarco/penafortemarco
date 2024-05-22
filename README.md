@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h3>I'm Marco, a Full-Stack Developer.</h3>
-- <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>   From Brazil.
+- <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/> From Brazil.
 <hr>
 
 My WebSite: https://viniciuscestarii-portfolio.vercel.app/
