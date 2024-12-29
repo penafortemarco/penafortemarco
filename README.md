@@ -11,26 +11,20 @@ My Portfolio WebSite is: https://marcopenaforte.vercel.app/
 <div style="display: inline_block" align="center">
   <br>
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.simpleicons.org/html5" />
-<img align="center" alt="CSS" height="40" width="40" src="https://cdn.simpleicons.org/css3" />
-<img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
-<img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
-<img align="center" alt="Svelte" height="40" width="40" src="https://cdn.simpleicons.org/svelte" />
-<img align="center" alt="Tailwind CSS" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
-<img align="center" alt="Node.js" height="40" width="40" src="https://cdn.simpleicons.org/node-dot-js" />
-<img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.simpleicons.org/postgresql" />
-<img align="center" alt="Supabase" height="40" width="40" src="https://cdn.simpleicons.org/supabase" />
-<img align="center" alt="Vercel" height="40" width="40" src="https://cdn.simpleicons.org/vercel" />
-<img align="center" alt="Git" height="40" width="40" src="https://cdn.simpleicons.org/git" />
-<img align="center" alt="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github" />
-<img align="center" alt="GitLab" height="40" width="40" src="https://cdn.simpleicons.org/gitlab" />
-<img align="center" alt="Docker" height="40" width="40" src="https://cdn.simpleicons.org/docker" />
-
-<br><br>
-
-<img align="center" alt="Visual Studio Code" height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode" />
-
-<br>
-
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.simpleicons.org/css3" />
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.simpleicons.org/react" />
+  <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.simpleicons.org/nextdotjs" />
+  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs" />
+  <img align="center" alt="Tailwind CSS" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
+  <img align="center" alt="Svelte" height="40" width="40" src="https://cdn.simpleicons.org/svelte" />
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.simpleicons.org/postgresql" />
+  <img align="center" alt="Supabase" height="40" width="40" src="https://cdn.simpleicons.org/supabase" />
+  <img align="center" alt="Vercel" height="40" width="40" src="https://cdn.simpleicons.org/vercel" />
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.simpleicons.org/git" />
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github" />
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.simpleicons.org/docker" />
   <br>
 </div>
 
