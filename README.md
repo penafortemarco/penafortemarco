@@ -26,7 +26,7 @@ My Portfolio WebSite is: https://marcopenaforte.vercel.app/
   <img align="center" alt="Marco Docker" height="40" width="40" src="https://cdn.simpleicons.org/docker/"/>
 
   <br><br>
-  <img align="center" alt="Marco Visual Studio Code" height="40" width="40" src="https://cdn.simpleicons.org/icons/visualstudiocode/"/>
+  <img align="center" alt="Marco Visual Studio Code" height="40" width="40" src="https://cdn.simpleicons.org/icons/visualstudiocode.svg/"/>
   <br>
 </div>
 
