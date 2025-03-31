@@ -1,12 +1,14 @@
-### Hi there 👋
+# Welcome to Me
 
-<h3>I'm Marco, a Full-Stack Developer.</h3>
-From Brazil: <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>
+### Marco Penaforte here:
+A Full-Stack Developer currently exploring new experiences and opportunities.</p>
+
+Currently based in Brazil: <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/
 <hr>
 
-My Portfolio WebSite is: [marcopenaforte.vercel.app](https://marcopenaforte.space)
+You can check my portfolio webbite in [marcopenaforte.space](https://marcopenaforte.space)
 
-## **💻 My Skills** 
+## **Some of my best skills** 
 
 <div style="display: inline_block" align="center">
   <br>
