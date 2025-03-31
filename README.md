@@ -12,6 +12,12 @@ You can check my portfolio website in [penafortemarco.space](https://penafortema
 
 <div style="display: inline_block" align="center">
   <br>
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.simpleicons.org/c" />
+  <img align="center" alt="C++" height="40" width="40" src="https://cdn.simpleicons.org/cplusplus" />
+  <img align="center" alt="Java" height="40" width="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.simpleicons.org/python" />
+  <br>
+  <br>
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.simpleicons.org/html5" />
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.simpleicons.org/css3" />
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
@@ -25,8 +31,7 @@ You can check my portfolio website in [penafortemarco.space](https://penafortema
   <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.simpleicons.org/nextdotjs" />
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.simpleicons.org/postgresql" />
   <img align="center" alt="Supabase" height="40" width="40" src="https://cdn.simpleicons.org/supabase" />
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.simpleicons.org/python" />
-  <img align="center" alt="C++" height="40" width="40" src="https://cdn.simpleicons.org/cplusplus" />
+  <br>
   <br>
   <img align="center" alt="Vercel" height="40" width="40" src="https://cdn.simpleicons.org/vercel" />
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.simpleicons.org/git" />
