@@ -1,16 +1,41 @@
-# Welcome to Me
+# Marco Penaforte
 
-### Marco Penaforte here:
-A Full-Stack Developer currently exploring new experiences and opportunities.</p>
+Computer Engineering student at UFC (Universidade Federal do Ceará), focused on embedded systems and low-level software. I like working close to the hardware — microcontrollers, real-time systems, and the kind of problems where memory and cycles actually matter.
 
-Currently based in Brazil: <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"/>
-<hr>
+Currently a student researcher at [LESC](https://github.com/lesc-ufcg) (Laboratório de Engenharia de Sistemas de Computação).
 
-You can check my portfolio website in [penafortemarco.space](https://penafortemarco.space)
+---
 
+## What I work with
+
+**Embedded & systems**
+`C` `C++` `ESP-IDF` `TensorFlow Lite for Microcontrollers` `SystemVerilog` `FPGA`
+
+**Web & scripting** (when the project calls for it)
+`Python` `TypeScript` `React` `Next.js` `Node.js`
+
+---
+
+## Projects
+
+| Project | What it is |
+|---------|-----------|
+| [FaceTrace](https://github.com/penafortemarco/FaceTrace) | CNN face recognition running on-device on an ESP32-S3 with a 2" LCD display |
+| [blockchain-fpga-api](https://github.com/penafortemarco/blockchain-fpga-api) | FPGA-accelerated blockchain consensus validation with a Flask coordination layer |
+| [malone](https://github.com/penafortemarco/malone) | Linux process injection tool in C — ptrace, shellcode, and memory manipulation |
+| [senatus](https://github.com/penafortemarco/senatus) | Python trading/market analysis library (archived) |
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/penafortemarco)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://marcopenaforte.space)
+[![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail&logoColor=white)](mailto:penafortemarco@gmail.com)
 ## **Some of my best skills** 
 
-<div style="display: inline_block" align="center">
+
+<!-- <div style="display: inline_block" align="center">
   <br>
   <img align="center" alt="C" height="40" width="40" src="https://cdn.simpleicons.org/c" />
   <img align="center" alt="C++" height="40" width="40" src="https://cdn.simpleicons.org/cplusplus" />
@@ -39,11 +64,11 @@ You can check my portfolio website in [penafortemarco.space](https://penafortema
   <img align="center" alt="PyPI" height="40" width="40" src="https://cdn.simpleicons.org/pypi" />]
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.simpleicons.org/docker" />
   <br>
-</div>
+</div> -->
 
-<br>
+<!-- <br>
 
 <div align="center"> 
   <a href = "mailto:penafortemarco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/penafortemarco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div> -->
