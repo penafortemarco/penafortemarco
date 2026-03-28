@@ -21,16 +21,16 @@ Currently a student researcher at [LESC](https://github.com/lesc-ufcg) (LaboratÃ
 | Project | What it is |
 |---------|-----------|
 | [FaceTrace](https://github.com/penafortemarco/FaceTrace) | CNN face recognition running on-device on an ESP32-S3 with a 2" LCD display |
-| [blockchain-fpga-api](https://github.com/penafortemarco/blockchain-fpga-api) | FPGA-accelerated blockchain consensus validation with a Flask coordination layer |
+| [blockchain-fpga-api](https://github.com/penafortemarco/blockchain-fpga-api) | FPGA-accelerated blockchain consensus validation with a Flask coordination layer (WIP) |
 | [malone](https://github.com/penafortemarco/malone) | Linux process injection tool in C â€” ptrace, shellcode, and memory manipulation |
-| [senatus](https://github.com/penafortemarco/senatus) | Python trading/market analysis library (archived) |
+| [senatus](https://github.com/penafortemarco/senatus) | Python trading/market analysis library |
 
 ---
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/penafortemarco)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://marcopenaforte.space)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://penafortemarco.space)
 [![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail&logoColor=white)](mailto:penafortemarco@gmail.com)
 
 <!--
