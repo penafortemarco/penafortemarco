@@ -32,10 +32,12 @@ Currently a student researcher at [LESC](https://github.com/lesc-ufcg) (Laborat√
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/penafortemarco)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://marcopenaforte.space)
 [![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail&logoColor=white)](mailto:penafortemarco@gmail.com)
+
+<!--
 ## **Some of my best skills** 
 
 
-<!-- <div style="display: inline_block" align="center">
+<div style="display: inline_block" align="center">
   <br>
   <img align="center" alt="C" height="40" width="40" src="https://cdn.simpleicons.org/c" />
   <img align="center" alt="C++" height="40" width="40" src="https://cdn.simpleicons.org/cplusplus" />
@@ -64,11 +66,12 @@ Currently a student researcher at [LESC](https://github.com/lesc-ufcg) (Laborat√
   <img align="center" alt="PyPI" height="40" width="40" src="https://cdn.simpleicons.org/pypi" />]
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.simpleicons.org/docker" />
   <br>
-</div> -->
+</div>
 
-<!-- <br>
+<br>
 
 <div align="center"> 
   <a href = "mailto:penafortemarco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/penafortemarco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> -->
+</div> 
+-->
